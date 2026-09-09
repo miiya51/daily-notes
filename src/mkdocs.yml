@@ -1,0 +1,9 @@
+site_name: 日々の日記
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
